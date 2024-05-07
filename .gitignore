@@ -1,1 +1,5 @@
 /target
+*.csv
+*.plt
+*.png
+*.log
